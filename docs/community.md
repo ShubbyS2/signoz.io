@@ -15,7 +15,7 @@ Get your invite for the slack community [here](https://signoz.io/slack)
 Have a question? Want to suggest an idea? - Head out to our [Github Discussions](https://github.com/SigNoz/signoz/discussions).
 We would love to hear from you!
 
-## Twitter
+## X
 
-Twitter has some amazing audience of developers and engineers. Follow us on Twitter
+X has some amazing audience of developers and engineers. Follow us on X
 [@SigNozHQ](https://twitter.com/SigNozHQ)
